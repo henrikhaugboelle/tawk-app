@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "privacy": "public",
+    "name": "Tawk",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "tawk",
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "in.tawk.app"
+    },
+    "android": {
+      "package": "in.tawk.app",
+      "versionCode": 1
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#ec407a"
+    }
+  }
+}
